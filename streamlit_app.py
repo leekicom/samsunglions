@@ -14,7 +14,7 @@ driver=webdriver.Chrome(service=service)
 driver.maximize_window()
 
 """
-# Samsung Lions!!
+# Samsung Lions Go!!
 
 
 """
