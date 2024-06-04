@@ -8,6 +8,6 @@ import streamlit as st
 
 
 """
-with open('https://m.sports.naver.com/game/20240604SSSK02024','r') as f:
-    html_string=f.read()
+
+html_string='https://m.sports.naver.com/game/20240604SSSK02024'
 st.markdown(html_string, unsafe_allow_html=True)
